@@ -1,0 +1,8 @@
+.icon-hover{
+    color: black;
+    cursor: pointer;
+}
+
+.icon-hover:hover{
+    color: #0d6efd;
+}
